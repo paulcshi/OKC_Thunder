@@ -1,4 +1,4 @@
-# OKC_Thunder_DS
+# OKC_Thunder
 # Data Science & Solutions Technical Assessment
 ## Outline
 In the programing language of your choice (preferably R or Python), provide a solution to the following problem: <br/>
